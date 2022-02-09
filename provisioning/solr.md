@@ -164,3 +164,8 @@ You can now follow the instructions in the [Getting started](./administration/ge
 your ArchivesSpace application.
 
 ---
+
+Please note: if you're upgrading an existing installation of ArchivesSpace to use an external Solr, you will need to trigger a full re-index. Instructions for this are in 
+ [Indexes](./administration/indexes.md) .
+ 
+---
